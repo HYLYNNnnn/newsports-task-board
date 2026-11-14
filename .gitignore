@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+test-results/
+playwright-report/
+tmp/
+output/
+.vercel/
+*.zip
+*.log
+.DS_Store
+*.tsbuildinfo
+# The assessment is confidential. Never include it in source sharing.
+*.pdf
+*.docx
+# Submission working documents stay local.
+/docs/submission-draft.md
+/docs/submission-checklist.md
